@@ -15,3 +15,5 @@ C:\Documents and Settings\david barnes\My Documents\My Dropbox\Engineering\OpenC
 C:\Documents and Settings\david barnes\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\obj\Debug\OpenRobotVision.csproj.GenerateResource.Cache
 C:\Documents and Settings\david barnes\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\obj\Debug\OpenRobotVision.exe
 C:\Documents and Settings\david barnes\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\obj\Debug\OpenRobotVision.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\obj\Debug\OpenRobotVision.exe
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\obj\Debug\OpenRobotVision.pdb
