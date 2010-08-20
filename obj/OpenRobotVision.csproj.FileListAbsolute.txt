@@ -17,3 +17,20 @@ C:\Documents and Settings\david barnes\My Documents\My Dropbox\Engineering\OpenC
 C:\Documents and Settings\david barnes\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\obj\Debug\OpenRobotVision.pdb
 C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\obj\Debug\OpenRobotVision.exe
 C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\obj\Debug\OpenRobotVision.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\bin\Debug\OpenRobotVision.exe
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\bin\Debug\OpenRobotVision.pdb
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\bin\Debug\Emgu.CV.DebuggerVisualizers.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\bin\Debug\Emgu.CV.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\bin\Debug\Emgu.CV.UI.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\bin\Debug\Emgu.Util.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\bin\Debug\zlib.net.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\obj\Debug\OpenRobotVision.FrmMain.resources
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\obj\Debug\OpenRobotVision.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\obj\Debug\OpenRobotVision.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\bin\Debug\DirectX.Capture.dll
+C:\Documents and Settings\Administrator\My Documents\My Dropbox\Engineering\OpenCV - VS\OpenRobotVision\bin\Debug\DShowNET.dll
