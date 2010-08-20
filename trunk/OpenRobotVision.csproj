@@ -28,6 +28,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DirectX.Capture, Version=1.0.3705.21632, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\System Camera Devices\SysCameraDevices\bin\Debug\DirectX.Capture.dll</HintPath>
+    </Reference>
     <Reference Include="Emgu.CV, Version=2.0.1.0, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\..\Program Files\Emgu\Emgu CV\bin\Emgu.CV.dll</HintPath>
@@ -90,6 +94,7 @@
     <Content Include="cvextern.dll" />
     <Content Include="cxcore200.dll" />
     <Content Include="highgui200.dll" />
+    <Content Include="License.txt" />
     <Content Include="ml200.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
